@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Vedant Anand</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Passionate Developer from India</h3>
 
 <img align = "right" alt = "coding" width ="400" src = "https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
