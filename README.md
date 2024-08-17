@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantanand17&label=Profile%20views&color=0e75b6&style=flat" alt="vedantanand17" /> </p>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **RUST**
 
-- 💬 Ask me about **C,CSS,JS,jQuery**
+- 💬 Ask me about **MERN, Blockchain**
 
 - 📫 How to reach me **vedantanand.in@gmail.com**
 
