@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vedant Anand</h1>
 
 <p align="center">
-  Payments and on-chain engineering. Currently building DeFi options infrastructure at <a href="https://github.com/VedantAnand17">Timelock Protocol</a>.
+  Payments and on-chain engineering. Currently building DeFi options infrastructure at Timelock Protocol.
 </p>
 
 <p align="center">
