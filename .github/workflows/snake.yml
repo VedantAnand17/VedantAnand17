@@ -20,7 +20,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: codebuild-vedantanand17-profile-gha-runner-${{ github.run_id }}-${{ github.run_attempt }}
     steps:
       - name: Generate snake SVGs
         uses: Platane/snk@v3
