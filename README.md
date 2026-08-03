@@ -1,82 +1,95 @@
-### <h1 align="center">Hi 👋, I'm Vedant Anand</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+<h1 align="center">Hi, I'm Vedant Anand</h1>
 
-<img align = "right" alt = "coding" width ="400" src = "https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantanand17&label=Profile%20views&color=0e75b6&style=flat" alt="vedantanand17" /> </p>
-
-- 🌱 I’m currently learning **RUST**
-
-- 💬 Ask me about **MERN, Blockchain**
-
-- 📫 How to reach me **vedantanand.in@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vedantsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedantsx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vedantanand17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant anand" height="30" width="40" /></a>
-<a href="https://discord.gg/vedant_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vedant_programmer" height="30" width="40" /></a>
+<p align="center">
+  Payments and on-chain engineering. Currently building DeFi options infrastructure at <a href="https://github.com/VedantAnand17">Timelock Protocol</a>.
 </p>
 
-## 🛠️ Tech Stack
+<p align="center">
+  <a href="https://vedant-dev.com"><img alt="Portfolio: vedant-dev.com" src="https://img.shields.io/badge/Portfolio-vedant--dev.com-0A7EA4?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://x.com/vedantsx"><img alt="X: @vedantsx" src="https://img.shields.io/badge/@vedantsx-3C3C3C?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vedantanand17"><img alt="LinkedIn: vedantanand17" src="https://img.shields.io/badge/LinkedIn-vedantanand17-0A66C2?style=flat" /></a>
+  <a href="mailto:vedantanand.in@gmail.com"><img alt="Email: vedantanand.in@gmail.com" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=vedantanand17&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+---
 
+## What I work on
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **Agentic payments.** Building on [x402](https://github.com/coinbase/x402), a payment protocol that runs over plain HTTP, so software agents can pay for APIs without a human in the loop.
+- **Stablecoin checkout.** Merchant-of-record flows with Bags, wiring storefronts to on-chain settlement.
+- **DeFi options on Monad.** Concentrated-liquidity AMM contracts, an exercise/settlement engine, and the indexers that keep the frontend honest.
+- **Verifiable documents.** Solidity contracts that anchor document provenance on-chain.
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+Based in Patiala, India, studying at Thapar University.
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+> [!NOTE]
+> Most of my day-to-day work at Timelock (the CLAMM core, the Monad frontend, the Ponder indexers) lives in private repos. What's below is the public slice.
 
+## Selected work
 
+| Project | What it is |
+| --- | --- |
+| [AgentPay](https://github.com/VedantAnand17/AgentPay) | x402 payment rails for AI agents. Next.js app with `wagmi`/`viem`, settlement contracts in Foundry. |
+| [sdk-sample](https://github.com/VedantAnand17/sdk-sample) | Next.js storefront on Bags' `@tbagtapp/sdk`, a merchant of record for stablecoin payments. |
+| [Web3-Wallet](https://github.com/VedantAnand17/Web3-Wallet) | Browser wallet handling both Solana and EVM keys, via `@solana/web3.js` and `ethers`. |
+| [Original-Docs-contracts](https://github.com/VedantAnand17/Original-Docs-contracts) | Foundry contract suite for on-chain document verification. |
+| [SolanaFavorite](https://github.com/VedantAnand17/SolanaFavorite) | A Solana program written in Rust. |
+| [portfolio-website](https://github.com/VedantAnand17/portfolio-website) | My site: Next.js, Tailwind, Radix. Live at [vedant-dev.com](https://vedant-dev.com). |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantanand17&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+## Tech
+
+Mostly **TypeScript** and **Solidity**. Next.js and Tailwind on the front end, **Foundry** for contracts,
+**viem** and **wagmi** for chain access, **Ponder** for indexing, shipping to **Monad**, EVM L2s and **Solana**.
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-B7410E?style=flat&logo=rust&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-3C3C3C?style=flat&logo=nextdotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" />
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
+  <img alt="Solana" src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" />
+</p>
+
+## Stats
+
+<!--
+  These SVGs are committed to this repo by .github/workflows/profile-cards.yml (daily).
+  Referencing them by relative path means the card keeps rendering even if the
+  upstream stats service goes down, which is exactly how the previous README broke.
+-->
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VedantAnand17&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VedantAnand17&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantAnand17&show_icons=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+  <img alt="GitHub stats for VedantAnand17: rank B, 22 stars earned, 188 commits in the last year, 42 pull requests, 21 issues, contributed to 21 repositories." src="./profile/stats-light.svg" width="450" />
 </picture>
 
 <!--
-**VedantAnand17/VedantAnand17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  A top-languages card is also generated at ./profile/top-langs-{light,dark}.svg but is
+  deliberately not shown: it weights by bytes of code, so committed build artifacts
+  (an 8 MB vendored Python env in cloud-flask-asn, Solidity build output in
+  UCScarbonTrading) dominate it and misrepresent the stack. To show it anyway:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
+    <img alt="Most used languages" src="./profile/top-langs-light.svg" width="450" />
+  </picture>
 -->
 
-
+<!--
+  Generated by .github/workflows/snake.yml into the `output` branch.
+  These URLs 404 until that workflow has run at least once.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VedantAnand17/VedantAnand17/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VedantAnand17/VedantAnand17/output/snake.svg" />
+  <img alt="A snake winding through my GitHub contribution graph, eating the commit squares." src="https://raw.githubusercontent.com/VedantAnand17/VedantAnand17/output/snake.svg" width="100%" />
+</picture>
