@@ -8,12 +8,19 @@
   Currently building DeFi options infrastructure at Timelock Protocol.
 </p>
 
+<!--
+  Labels are kept to one short word each on purpose: at for-the-badge size the old
+  two-part labels ("Portfolio | vedant-dev.com") spanned the whole column and competed
+  with the heading. The full detail lives in the alt text instead.
+  X uses #536471 (its own secondary grey) rather than brand black, which sits at 1.1:1
+  against GitHub's #0d1117 and reads as a hole at this size.
+-->
 <p align="center">
-  <a href="https://vedant-dev.com"><img alt="Portfolio: vedant-dev.com" src="https://img.shields.io/badge/Portfolio-vedant--dev.com-0A7EA4?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://x.com/vedantsx"><img alt="X: @vedantsx" src="https://img.shields.io/badge/@vedantsx-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vedantanand17"><img alt="LinkedIn: vedantanand17" src="https://img.shields.io/badge/LinkedIn-vedantanand17-0A66C2?style=flat-square" /></a>
-  <a href="mailto:vedantanand.in@gmail.com"><img alt="Email: vedantanand.in@gmail.com" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=vedantanand17&label=Profile%20views&color=0e75b6&style=flat-square" />
+  <a href="https://vedant-dev.com"><img alt="Portfolio: vedant-dev.com" src="https://img.shields.io/badge/Portfolio-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://x.com/vedantsx"><img alt="X: @vedantsx" src="https://img.shields.io/badge/@vedantsx-536471?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vedantanand17"><img alt="LinkedIn: vedantanand17" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
+  <a href="mailto:vedantanand.in@gmail.com"><img alt="Email: vedantanand.in@gmail.com" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=vedantanand17&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <!--
