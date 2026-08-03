@@ -1,0 +1,13 @@
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The files in this directory -- x402-handshake.gif and make-hero-gif.py --
+were created from scratch for this repository. The GIF is not derived from any
+third-party artwork, stock footage or clip; every frame is drawn programmatically
+by make-hero-gif.py using Pillow, and the only external input is the DejaVu Sans
+Mono typeface (DejaVu Fonts License, a permissive Bitstream Vera derivative,
+which permits embedding and redistribution of rendered output).
+
+To the extent possible under law, Vedant Anand has waived all copyright and
+related or neighboring rights to these files. They may be reused for any
+purpose without permission or attribution.
