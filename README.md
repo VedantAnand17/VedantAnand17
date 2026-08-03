@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Anand</h1>
 
 <p align="center">
-  <img alt="Payments and on-chain engineering. x402 rails so agents can pay for APIs. Solidity and Foundry, CLAMM options on Monad. TypeScript, viem, wagmi, Ponder." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Payments+and+on-chain+engineering;x402+rails+so+agents+can+pay+for+APIs;Solidity+%2B+Foundry+%C2%B7+CLAMM+options+on+Monad;TypeScript+%C2%B7+viem+%C2%B7+wagmi+%C2%B7+Ponder" />
+  <img alt="Payments and on-chain engineering. x402 rails so agents can pay for APIs. Solidity and Foundry, CLAMM options on Monad. TypeScript, viem, wagmi, Ponder." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=620&height=45&lines=Payments+and+on-chain+engineering;x402+rails+so+agents+can+pay+for+APIs;Solidity+%2B+Foundry+%C2%B7+CLAMM+options+on+Monad;TypeScript+%C2%B7+viem+%C2%B7+wagmi+%C2%B7+Ponder" />
 </p>
 
 <p align="center">
