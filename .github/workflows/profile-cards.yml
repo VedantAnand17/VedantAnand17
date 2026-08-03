@@ -18,6 +18,13 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      # The card action runs pnpm/action-setup before its own setup-node, so pnpm's
+      # self-installer uses whatever Node the runner image ships. CodeBuild's
+      # standard:7.0 defaults to Node 18, which that installer no longer supports.
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
       - name: Stats card (light)
         uses: stats-organization/github-readme-stats-action@v2
         with:
