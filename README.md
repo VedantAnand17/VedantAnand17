@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Currently building DeFi options infrastructure at Timelock Protocol.
+  Co-founder of Bags, x402 contributor and maintainer, and Google Summer of Code 2026 mentor with OWASP BLT. I build payment infrastructure for AI agents.
 </p>
 
 <!--
@@ -16,7 +16,7 @@
   against GitHub's #0d1117 and reads as a hole at this size.
 -->
 <p align="center">
-  <a href="https://vedant-dev.com"><img alt="Portfolio: vedant-dev.com" src="https://img.shields.io/badge/Portfolio-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.vedant-dev.com"><img alt="Portfolio: vedant-dev.com" src="https://img.shields.io/badge/Portfolio-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://x.com/vedantsx"><img alt="X: @vedantsx" src="https://img.shields.io/badge/@vedantsx-536471?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://linkedin.com/in/vedantanand17"><img alt="LinkedIn: vedantanand17" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
   <a href="mailto:vedantanand.in@gmail.com"><img alt="Email: vedantanand.in@gmail.com" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -44,7 +44,9 @@
 Based in Patiala, India, studying at Thapar University.
 
 > [!NOTE]
-> Most of my day-to-day work at Timelock (the CLAMM core, the Monad frontend, the Ponder indexers) lives in private repos. What's below is the public slice.
+> My earlier work at Timelock (the CLAMM core, the Monad frontend, the Ponder indexers) lives in private repos. What's below is the public slice.
+
+Read [my biography](https://www.vedant-dev.com/about) and [my x402 engineering write-up](https://www.vedant-dev.com/blog/x402-agentic-commerce).
 
 ## Selected work
 
@@ -55,7 +57,7 @@ Based in Patiala, India, studying at Thapar University.
 | [Web3-Wallet](https://github.com/VedantAnand17/Web3-Wallet) | Browser wallet handling both Solana and EVM keys, via `@solana/web3.js` and `ethers`. |
 | [Original-Docs-contracts](https://github.com/VedantAnand17/Original-Docs-contracts) | Foundry contract suite for on-chain document verification. |
 | [SolanaFavorite](https://github.com/VedantAnand17/SolanaFavorite) | A Solana program written in Rust. |
-| [portfolio-website](https://github.com/VedantAnand17/portfolio-website) | My site: Next.js, Tailwind, Radix. Live at [vedant-dev.com](https://vedant-dev.com). |
+| [portfolio-website](https://github.com/VedantAnand17/portfolio-website) | My site: Next.js, Tailwind, Radix. Live at [vedant-dev.com](https://www.vedant-dev.com). |
 
 ## Tech
 
